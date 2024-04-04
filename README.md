@@ -31,7 +31,7 @@ Abre el proyecto: `Setup.Rproj`. Si lo has abierto correctamente, tendrías que 
 ![training](https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/set_up_Rproj.png)
 
 
-Para hacer las prácticas hace falta instalar una serie de librerias (paquetes). En R, abre el archivo CodeToRun.R (disponible en esta carpeta) y ejecuta el código. Hacerlo es muy sencillo, tan solo tienes que seleccionar el código y pulsar "Run". A medida que ejecutes el código, este te aparecera en la consola. Si todo sale bien, debería aparecer este mensaje:
+Para hacer las prácticas es necesario instalar una serie de librerias (paquetes). En R, abre el archivo CodeToRun.R (disponible en esta carpeta) y ejecuta el código. Hacerlo es muy sencillo, tan solo tienes que seleccionar el código y pulsar "Run". A medida que ejecutes el código, este te aparecera en la consola. Si todo sale bien, debería aparecer este mensaje:
 
 ![training](https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/set_up_run_check.png)
 
