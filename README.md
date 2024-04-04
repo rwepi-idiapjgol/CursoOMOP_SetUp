@@ -23,10 +23,11 @@ Sigue estas instrucciones para preparar tu "R environment":
 ### 4) Instalar Java 
 - https://www.ohdsi.org/web/wiki/doku.php?id=documentation:r_setup
 
-Después de estos pasos abre el RStudio. Descarga la carpeta "CursoOMOP_SetUp" y abre el proyecto: `Setup.Rproj`
+Después de estos pasos abre el RStudio. Descarga la carpeta "CursoOMOP_SetUp" cómo carpeta ziop y descomprime los archivos.
+![training]([https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/download_repo.png])
 
 
-Si lo has abierto correctamente, tendrías que ver lo siguiente:
+Abre el proyecto: `Setup.Rproj`. Si lo has abierto correctamente, tendrías que ver lo siguiente:
 ![training]([https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/set_up_Rproj.png])
 
 
