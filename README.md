@@ -27,12 +27,12 @@ Después de estos pasos abre el RStudio. Descarga la carpeta "CursoOMOP_SetUp" y
 
 
 Si lo has abierto correctamente, tendrías que ver lo siguiente:
-![training](https://github.com/rwepi-idiapjgol/FormacionsIDIAP-IntroduccioOMOP_ESP/blob/main/0_SetUp/set_up_Rproj.png)
+![training](https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/Otros/set_up_Rproj.png)
 
 
 Para hacer las prácticas hace falta instalar una serie de librerias (paquetes). En R, abre el archivo CodeToRun.R (disponible en esta carpeta) y ejecuta el código. Hacerlo es muy sencillo, tan solo tienes que seleccionar el código y pulsar "Run". A medida que ejecutes el código, este te aparecera en la consola.Si todo sale bien, debería aparecer este mensaje:
 
-![training](https://github.com/rwepi-idiapjgol/FormacionsIDIAP-IntroduccioOMOP_ESP/blob/main/0_SetUp/set_up_run_check.png)
+![training](https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/Otros/set_up_run_check.png)
 
 
 !! En caso que el programa os pregunte si quereis actualizar paquetes o si quereis instalar desde las fuentes aquellos paquetes que requieren compilación podéis indicar que si. 
