@@ -24,7 +24,7 @@ Sigue estas instrucciones para preparar tu "R environment":
 - https://www.ohdsi.org/web/wiki/doku.php?id=documentation:r_setup
 
 Después de estos pasos abre el RStudio. Descarga la carpeta "CursoOMOP_SetUp" cómo carpeta ziop y descomprime los archivos.
-![training]([https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/download_repo.png])
+![training](https://github.com/rwepi-idiapjgol/CursoOMOP_SetUp/blob/main/Otros/download_repo.png)
 
 
 Abre el proyecto: `Setup.Rproj`. Si lo has abierto correctamente, tendrías que ver lo siguiente:
