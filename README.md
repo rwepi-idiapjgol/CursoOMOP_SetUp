@@ -4,8 +4,11 @@
 ## Contactos
 
 Si tenéis algún problema al preparar R para la práctica, por favor contactad con:
-- Berta Raventós: braventos@idiapjgol.info
-- Núria Mercadé: nuria.mercadebesora@ndorms.ox.ac.uk 
+- Anna Palomar: apalomar@idiapjgol.org
+- Agustina Giuliodori: agiuliodori@idiapjgol.org
+- Irene López: ilopez@idiapjgol.org
+- Elena Roel: eroel@idiapjgol.org
+- Talita Duarte: tduarte@idiapjgol.org
 
 ## Prepara tu ordenador
 
